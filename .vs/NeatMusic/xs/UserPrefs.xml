@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{18B2C159-A76C-46AC-B1FF-0F7572730128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeatMusic/MusicLibrary.cs">
+    <Files>
+      <File FileName="NeatMusic/Module.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/MusicEnvironment.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/MusicLibrary.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/MusicListEvaluator.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/RhythmEvaluator.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/Fitness/FitnessFunctionDeep.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/Fitness/FitnessFunctionRhythm.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/Fitness/FitnessUtils.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/Fitness/FitnessFunctionSameNote.cs" Line="77" Column="33" />
+      <File FileName="NeatMusic/MidiCreator.cs" Line="94" Column="68" />
+      <File FileName="MakeMidi/Program.cs" Line="28" Column="71" />
+      <File FileName="NeatMusic/MultipleMidiCreator.cs" Line="19" Column="18" />
+      <File FileName="NeatMusic/SingleRunGenerator.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/SingleMidiCreator.cs" Line="1" Column="1" />
+      <File FileName="NeatMusic/MusicExperiment.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NeatMusic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

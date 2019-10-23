@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeatMusic", "NeatMusic\NeatMusic.csproj", "{18B2C159-A76C-46AC-B1FF-0F7572730128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeMidi", "MakeMidi\MakeMidi.csproj", "{B2DFFA15-2696-43D6-A2B4-36BE486C6E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard", "Keyboard\Keyboard.csproj", "{A020983E-21C0-4744-AA0B-43D978876EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B2C159-A76C-46AC-B1FF-0F7572730128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B2C159-A76C-46AC-B1FF-0F7572730128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B2C159-A76C-46AC-B1FF-0F7572730128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B2C159-A76C-46AC-B1FF-0F7572730128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DFFA15-2696-43D6-A2B4-36BE486C6E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DFFA15-2696-43D6-A2B4-36BE486C6E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DFFA15-2696-43D6-A2B4-36BE486C6E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DFFA15-2696-43D6-A2B4-36BE486C6E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A020983E-21C0-4744-AA0B-43D978876EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A020983E-21C0-4744-AA0B-43D978876EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A020983E-21C0-4744-AA0B-43D978876EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A020983E-21C0-4744-AA0B-43D978876EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

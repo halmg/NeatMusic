@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <PopulationSize>150</PopulationSize>
+  <SpecieCount>10</SpecieCount>
+  <ParasiteCount>5</ParasiteCount>
+  <ChampionCount>0</ChampionCount>
+  <Activation>
+    <Scheme>FixedIters</Scheme>
+    <Iters>2</Iters>
+  </Activation>
+  <ComplexityRegulationStrategy>Relative</ComplexityRegulationStrategy>
+  <ComplexityThreshold>50</ComplexityThreshold>
+  <Description>
+    Music players coevolution
+    Each player consists of 2 ANN 
+    In the example with 2 players we evolve simultaneously 4 populations
+    Fitness is evaluated from the product of the players
+    
+    Need to decide what fitness to use
+  </Description>
+
+</Config>
